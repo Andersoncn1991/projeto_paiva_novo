@@ -1,0 +1,9 @@
+INSTRUÇÕES PARA RESETAR O BANCO E AS MIGRATIONS:
+
+1. Apague o arquivo db.sqlite3
+2. Apague todos os arquivos dentro de alembic/versions (exceto __pycache__)
+3. Rode:
+   python -m alembic revision --autogenerate -m "criar tabelas iniciais"
+   python -m alembic upgrade head
+
+Isso irá criar todas as tabelas do zero, conforme os modelos atuais.

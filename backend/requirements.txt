@@ -1,0 +1,12 @@
+# Dependências principais do backend FastAPI
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+alembic
+requests
+httpx
+# Adicione outras dependências conforme necessário

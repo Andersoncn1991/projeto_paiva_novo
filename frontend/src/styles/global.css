@@ -1,0 +1,67 @@
+/* Global styles and mobile responsiveness */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', 'Nunito', Arial, sans-serif;
+  background: #fff;
+}
+
+/* Mobile adjustments */
+@media (max-width: 600px) {
+  .inicio-container {
+    max-width: 98vw !important;
+    padding: 16px !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+  }
+  .hero-btns {
+    flex-direction: column !important;
+    gap: 12px !important;
+  }
+  .hero-btn, .hero-btn-sec {
+    width: 100% !important;
+    font-size: 18px !important;
+    padding: 12px 0 !important;
+  }
+  h2 {
+    font-size: 22px !important;
+  }
+  .sidebar {
+    display: none !important;
+  }
+  main {
+    margin-left: 0 !important;
+    padding: 12px 0 0 0 !important;
+  }
+  footer {
+    left: 0 !important;
+    width: 100vw !important;
+    font-size: 13px !important;
+    padding: 8px 0 !important;
+  }
+}
+
+/* Utility for mobile menu */
+.mobile-menu-btn {
+  display: none;
+}
+@media (max-width: 600px) {
+  .mobile-menu-btn {
+    display: block;
+    position: fixed;
+    top: 18px;
+    left: 18px;
+    z-index: 100;
+    background: rgba(229,57,53,0.92);
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    width: 48px;
+    height: 48px;
+    font-size: 28px;
+    box-shadow: 0 2px 8px #0002;
+    cursor: pointer;
+    pointer-events: auto;
+  }
+}

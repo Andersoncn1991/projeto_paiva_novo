@@ -1,0 +1,17 @@
+# Ignorar ambientes virtuais Python
+venv/
+
+# Ignorar arquivos de ambiente
+.env
+.env.*
+
+# Ignorar dependências do Node.js
+frontend/node_modules/
+
+# Ignorar arquivos de build do frontend
+frontend/dist/
+
+# Ignorar arquivos temporários
+*.pyc
+__pycache__/
+.DS_Store

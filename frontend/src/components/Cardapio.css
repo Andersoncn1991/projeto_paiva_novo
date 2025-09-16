@@ -1,0 +1,36 @@
+.cardapio-gourmet {
+  font-family: 'Segoe UI', 'Roboto', 'Arial', sans-serif;
+}
+
+.cardapio-gourmet .ant-card {
+  transition: box-shadow 0.2s, border 0.2s;
+}
+
+.cardapio-gourmet .ant-card:hover {
+  box-shadow: 0 8px 32px rgba(250, 84, 28, 0.12);
+  border-color: #fa541c !important;
+}
+
+.cardapio-gourmet .ant-typography {
+  letter-spacing: 0.01em;
+}
+
+.cardapio-gourmet .ant-select-selector {
+  border-radius: 8px !important;
+}
+
+.cardapio-gourmet .ant-modal-content {
+  border-radius: 12px;
+}
+
+.cardapio-gourmet .ant-btn-primary {
+  background: linear-gradient(90deg, #fa541c 0%, #ffb300 100%);
+  border: none;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+.cardapio-gourmet .ant-btn-primary:disabled {
+  background: #ccc !important;
+  color: #fff !important;
+}

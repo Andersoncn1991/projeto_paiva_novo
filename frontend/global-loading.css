@@ -1,0 +1,13 @@
+/* Garante fundo branco e bloqueia rolagem antes do React montar */
+html, body {
+  background: #fff !important;
+  overflow-x: hidden !important;
+  min-height: 100vh;
+  height: 100vh;
+  width: 100vw;
+}
+#root {
+  min-height: 100vh;
+  height: 100vh;
+  width: 100vw;
+}

@@ -1,0 +1,76 @@
+nome,descricao,preco,categoria,preco_media,preco_grande
+HOT-DOG,"Salsicha, maionese, ketchup, mostarda, vinagrete e batata-palha",13,lanches_individuais,,
+HOT-DOG DUPLO,"2 Salsichas, maionese, ketchup, mostarda, vinagrete e batata-palha",15,lanches_individuais,,
+HOT-DOG ESPECIAL,"Salsicha, maionese, ketchup, mostarda, milho, vinagrete, batata-palha, presunto e queijo",24,lanches_individuais,,
+HOT-DOG ESPECIAL 2 C/ PURÊ E CARNE MOÍDA,"Salsicha, maionese, ketchup, mostarda, vinagrete, batata-palha, presunto, queijo, milho, carne moída e purê",33,lanches_individuais,,
+AMERICANO COM FRANGO,"Presunto, queijo, alface, vinagrete, ovo, frango desfiado, maionese, ketchup e batata-palha",34,lanches_individuais,,
+X-BURGUER,"Hambúrguer, queijo, maionese, ketchup, vinagrete",24,lanches_individuais,,
+X-SALADA,"Hambúrguer, alface, queijo, maionese, ketchup, vinagrete e batata-palha",25,lanches_individuais,,
+X-EGG,"Hambúrguer, queijo, ovo, maionese, ketchup, vinagrete e batata-palha",25,lanches_individuais,,
+X-MILHO,"Hambúrguer, milho, queijo, maionese, ketchup, vinagrete e batata-palha",26,lanches_individuais,,
+CARNAFRANGO,"Carne desfiada, frango, maionese, requeijão coronata, batata-palha e ketchup",37,lanches_individuais,,
+CALACARNAFRANBACON,"Calabresa, carne desfiada, frango e bacon, maionese, requeijão coronata, batata-palha e ketchup",42,lanches_individuais,,
+FRANGÃO,"Frango desfiado, requeijão coronata, queijo, maionese, ketchup e batata-palha.",,lanches,28,37
+CARNAFRANBURGUER,"Carne, frango desfiado, hambúrguer, requeijão coronata, queijo, maionese, ketchup e batata-palha.",,lanches,30,38
+FRANBURGUER,"Frango desfiado, hambúrguer, requeijão coronata, queijo, maionese, ketchup e batata-palha.",,lanches,28,38
+FRANBACON,"Frango desfiado, bacon, requeijão coronata, queijo, maionese, ketchup e batata-palha.",,lanches,28,35
+CALAFRANGO,"Calabresa, frango desfiado, requeijão coronata, queijo, maionese, ketchup e batata-palha.",,lanches,28,35
+CALAFRANBURGUER,"Hambúrguer, calabresa, frango desfiado, requeijão coronata, queijo, maionese, ketchup e batata-palha.",,lanches,30,37
+CALACARNAFRANGO,"Carne, calabresa, frango desfiado, requeijão coronata, queijo, maionese, ketchup e batata-palha.",,lanches,30,38
+CARNAFRANBACON,"Carne, frango, bacon, requeijão, maionese, ketchup, batata-palha, queijo.",,lanches,30,37
+X-TUDO PARA 1 PESSOA,"Carne, frango, calabresa, bacon, queijo, presunto, requeijão coronata, milho, hambúrguer, ovo, maionese, ketchup e batata-palha.",37,lanches,,
+X-TUDO PARA 2 PESSOAS,"Carne, frango, calabresa, bacon, queijo, presunto, requeijão coronata, milho, hambúrguer, ovo, maionese, ketchup e batata-palha.",48,lanches,,
+X-TUDO PARA 4 PESSOAS,"Carne, frango, calabresa, bacon, queijo, presunto, requeijão coronata, milho, hambúrguer, ovo, maionese, ketchup e batata-palha.",80,lanches,,
+PERNIL NA BAGUETE,"Pernil desfiado, azeitona, vinagrete, cheiro verde, requeijão Tirolês, queijo prato e maionese.",42,baguete,,
+CARNÃO,"Carne, queijo, requeijão coronata, maionese, ketchup e batata-palha.",,lanches,28,38
+CALACARNE,"Calabresa, carne, requeijão coronata, queijo, maionese, ketchup e batata-palha.",,lanches,30,37
+CHURRASQUINHO,"Contra filé, queijo, maionese, ketchup, vinagrete e batata-palha.",,lanches,33,48
+X-BACON,"Hambúrguer, bacon, queijo, maionese, ketchup, vinagrete e batata-palha.",,lanches,27,33
+CALAFRAMBACON,"Calabresa, frango desfiado, requeijão coronata, bacon, queijo, maionese, ketchup e batata-palha.",,lanches,30,37
+MISTO,"Presunto, queijo, maionese, ketchup e batata-palha",27,lanches_individuais,,
+PRENSÃO,"Presunto, queijo, maionese, ketchup, vinagrete e batata-palha",27,lanches_individuais,,
+AMERICANO,"Presunto, queijo, alface, vinagrete, ovo, maionese, ketchup e batata-palha",29,lanches_individuais,,
+AMERICANO COM HAMBURGUER,"Presunto, queijo, alface, vinagrete, ovo, hambúrguer, maionese, ketchup e batata-palha",31,lanches_individuais,,
+AMERICANO COM CONTRA FILÉ,"Presunto, queijo, alface, vinagrete, ovo, contra filé, maionese, ketchup e batata-palha",39,lanches_individuais,,
+CALABACON,"Bacon, calabresa, vinagrete, queijo, maionese, ketchup e batata-palha.",,lanches,28,34
+CALABURGUER,"Hambúrguer, calabresa, queijo, maionese, ketchup, vinagrete e batata-palha",33,lanches_individuais,,
+CALACONTRA,"Contra filé, calabresa, vinagrete, queijo, maionese, ketchup e batata-palha",38,lanches_individuais,,
+CHURRASQUINHO NA BAGUETE,"Contra filé, azeitona, vinagrete temperado, cheiro verde, requeijão Tirolês, queijo prato e maionese.",42,baguete,,
+FILÉ DE FRANGO NA BAGUETE,"Filé de frango em tiras, azeitona, vinagrete, cheiro verde, requeijão Tirolês, queijo prato e maionese.",37,baguete,,
+LINGUIÇA NA BAGUETE,"Linguiça fresca, azeitonas, vinagrete temperado, requeijão Tirolês, queijo prato e maionese.",38,baguete,,
+CALABRESA NA BAGUETE,"Calabresa, vinagrete, requeijão Tirolês, queijo prato e maionese.",35,baguete,,
+COSTELA NA BAGUETE,"Costela desfiada, cheddar Tirolês ou requeijão Tirolês, queijo prato e maionese.",38,baguete,,
+ULTIMATE BURGUER,"Dois burgers artesanais de 320g cada, queijo prato, maionese, ketchup, batata palha, tomate em rodelas e cebola roxa.",60,burgers,,
+BIG BURGUER,"Dois burgers artesanais de 320g cada, dois ovos, queijo prato, maionese, ketchup, batata palha, tomate em rodelas e cebola roxa.",60,burgers,,
+CHEDDAR BURGUER,"Burger artesanal de 320g, queijo cheddar, queijo prato, maionese, ketchup, batata palha, tomate em rodelas e cebola roxa.",45,burgers,,
+X-BURGUER,"Burger artesanal de 320g, queijo prato, maionese, ketchup, batata palha, tomate em rodelas e cebola roxa.",40,burgers,,
+SALADA BURGUER,"Burger artesanal de 320g, queijo prato, alface, maionese, ketchup, batata palha, tomate em rodelas e cebola roxa.",40,burgers,,
+X-BACON,"Burger artesanal de 320g, queijo prato, bacon em cubos, maionese, ketchup, batata palha, tomate em rodelas e cebola roxa.",50,burgers,,
+COSTELA BURGUER,"Burger artesanal de costela de 320g, queijo prato, maionese, ketchup, batata palha, tomate em rodelas e cebola roxa.",42,burgers,,
+PICANHA BURGUER,"Burger artesanal de picanha de 320g, requeijão tirolês, queijo prato, maionese, ketchup, batata palha, tomate em rodelas e cebola roxa.",50,burgers,,
+X-MILHO,"Burger artesanal de 320g, milho, queijo prato, maionese, ketchup, batata palha, tomate em rodelas e cebola roxa.",43,burgers,,
+COMBO 1,"1 Dog Duplo, 1 Dog Duplo com frango, 1 Dog Duplo com bacon, 1 Dog Duplo com calabresa",84,combos,,
+COMBO 2,"1 Frangão (Médio), 1 Franbacon (Médio), 1 Franburguer (Médio), 1 Calafrango (Médio).",104,combos,,
+COMBO 3,"1 X-Egg, 1 X-Salada, 1 X-Burguer",70,combos,,
+COMBO 4,"1 Frangão, 1 Franbacon, 1 Franburguer, 1 X-Bacon",128,combos,,
+COMBO 5,"1 Americano de Hambúrguer, 1 Americano de Frango, 1 Calaburguer, 1 X-Salada",115,combos,,
+COMBO 6,"1 X-Tudo para 2 pessoas, 1 Carnafranbacon, 1 Hot Dog",90,combos,,
+COMBO 7,"1 X-Milho, 1 X-Egg, 1 X-Salada, 1 X-Burguer",90,combos,,
+BATATA-FRITA,BATATA-FRITA.,,porcoes,30,40
+"BATATA, QUEIJO E BACON","BATATA, QUEIJO E BACON",,porcoes,50,70
+"BATATA, BACON E CHEDDAR","BATATA, BACON E CHEDDAR",,porcoes,50,70
+CARNABACON,"Carne, bacon, queijo, requeijão coronata, maionese, ketchup e batata-palha.",,lanches,30,38
+BAURU,"Presunto, queijo, alface, rodelas de tomate, maionese, ketchup e batata-palha",27,lanches_individuais,,
+X-CALABRESA,"Calabresa, queijo, maionese, ketchup, vinagrete e batata-palha.",,lanches,27,33
+SPRITE (LATA),SPRITE (LATA),6,bebidas,,
+COCA-COLA (LATA),COCA-COLA (LATA),6,bebidas,,
+BIG PAIVA (GRANDE),"2 hambúrguer, queijo, ovo, presunto, milho, maionese, ketchup, vinagrete e batata-palha.",,lanches,,37
+BAURU NA BAGUETE,"Presunto, queijo prato, tomate em rodelas, alface e maionese.",34,baguete,,
+GUARANÁ ANTARTICA 2L,GUARANÁ ANTARTICA 2L,15,bebidas,,
+CERVEJA SKOL (LATA),CERVEJA SKOL (LATA),6,bebidas,,
+CERVEJA BRAHMA (LATA),CERVEJA BRAHMA (LATA),6,bebidas,,
+COCA-COLA 2L,COCA-COLA 2L,18,bebidas,,
+SUKITA GUARANÁ 2L,SUKITA GUARANÁ 2L,12,bebidas,,
+SUKITA LARANJA 2L,SUKITA LARANJA 2L,12,bebidas,,
+GUARANÁ (LATA),GUARANÁ (LATA),6,bebidas,,
+FANTA (LATA),FANTA (LATA),6,bebidas,,

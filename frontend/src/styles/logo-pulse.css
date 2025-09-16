@@ -1,0 +1,8 @@
+.logo-pulsante {
+  animation: pulse-paivas 2.2s infinite;
+}
+@keyframes pulse-paivas {
+  0% { transform: scale(1); filter: brightness(1); }
+  50% { transform: scale(1.08); filter: brightness(1.08); }
+  100% { transform: scale(1); filter: brightness(1); }
+}
